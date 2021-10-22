@@ -1,0 +1,2 @@
+[FAILED] This page contains no rules! http://localhost:3000/words/80
+[FAILED] Action Controller: Exception caught for http://localhost:3000/words/80

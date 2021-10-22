@@ -1,0 +1,11 @@
+[FAILED] This page contains no rules! http://localhost:3000//
+[FAILED] Sprint2Project for http://localhost:3000//
+[FAILED] This page contains no rules! http://localhost:3000//words/81
+[FAILED] Action Controller: Exception caught for http://localhost:3000//words/81
+[FAILED] This page contains no rules! http://localhost:3000//words/82
+[FAILED] Action Controller: Exception caught for http://localhost:3000//words/82
+[FAILED] This page contains no rules! http://localhost:3000//words/83
+[FAILED] Action Controller: Exception caught for http://localhost:3000//words/83
+[FAILED] This page contains no rules! http://localhost:3000//words/84
+[FAILED] Action Controller: Exception caught for http://localhost:3000//words/84
+[FAILED] This page contains no rules! http://localhost:3000//words/85

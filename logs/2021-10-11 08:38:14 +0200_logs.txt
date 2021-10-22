@@ -1,0 +1,23 @@
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/80
+[COMPLETE] http://verbalzombie.hob//words/80 found while checking for title, JoJo - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/81
+[COMPLETE] http://verbalzombie.hob//words/81 found while checking for title, Güllelizer - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/82
+[COMPLETE] http://verbalzombie.hob//words/82 found while checking for title, DISKOFOX - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/83
+[COMPLETE] http://verbalzombie.hob//words/83 found while checking for title, Akzentsensitiv - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/84
+[COMPLETE] http://verbalzombie.hob//words/84 found while checking for title, Ergebnislose Diskussion - Liste ekliger Wörter
+[FAILED] This page contains no rules! http://verbalzombie.hob//words/85
+[FAILED] 404 Page Not Found for http://verbalzombie.hob//words/85
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/86
+[COMPLETE] http://verbalzombie.hob//words/86 found while checking for title, Konvergente Verbraucher - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/87
+[COMPLETE] http://verbalzombie.hob//words/87 found while checking for title, SortiereNachZufügeReihenfogleModus - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/88
+[COMPLETE] http://verbalzombie.hob//words/88 found while checking for title, die kleine Suchfunktion - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob//words/89
+[COMPLETE] http://verbalzombie.hob//words/89 found while checking for title, Bugreport - Liste ekliger Wörter
+[COMPLETE] Rules for this page found: http://verbalzombie.hob/board/best
+[FAILED]  filling_in http://verbalzombie.hob/board/best
+[COMPLETE] "Neuste" clicked successfully
