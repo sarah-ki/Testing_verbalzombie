@@ -1,0 +1,2 @@
+[COMPLETE] Normal User is Logged in
+[COMPLETE] Opened new Group page

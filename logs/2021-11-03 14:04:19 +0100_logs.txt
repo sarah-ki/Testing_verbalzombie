@@ -1,0 +1,6 @@
+[COMPLETE] Normal User is Logged in
+[COMPLETE] Meal has been created
+[COMPLETE] Tag does not exist yet
+[COMPLETE] Tag has been created
+[FAILED] This Meal does not exist
+[FAILED] This user cannot approve/disapprove other users!

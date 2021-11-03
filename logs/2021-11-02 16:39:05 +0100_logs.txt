@@ -1,0 +1,5 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] Opened new Group page
+[COMPLETE] Group has been created
+[COMPLETE] Opened show Group page
+[COMPLETE] Successfully joined a group

@@ -1,0 +1,4 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] http://localhost:3000/ contains "Homepage"
+[FAILED] not all items found on page: http://localhost:3000/
+[COMPLETE] Opened new Group page

@@ -1,0 +1,7 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6550>!
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6528>!
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6488>!
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6460>!
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6438>!
+[COMPLETE] Search test has found #<Capybara::Node::Element:0x00005641f42c6410>!

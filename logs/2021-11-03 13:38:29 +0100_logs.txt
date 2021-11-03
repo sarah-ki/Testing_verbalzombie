@@ -1,0 +1,2 @@
+[COMPLETE] Admin User is Logged in
+[FAILED] 2 left. None could be destroyed

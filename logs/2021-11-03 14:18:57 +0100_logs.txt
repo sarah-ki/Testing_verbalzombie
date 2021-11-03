@@ -1,0 +1,16 @@
+[COMPLETE] Normal User is Logged in
+[COMPLETE] Opened new Group page
+[COMPLETE] Group has been created
+[COMPLETE] Opened show Group page
+[FAILED] User already in group
+[COMPLETE] Meal has been created
+[COMPLETE] Tag does not exist yet
+[COMPLETE] Tag has been created
+[FAILED] The search did not return any results
+[FAILED] This Meal does not exist
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] At least one full match has been found
+[FAILED] This user cannot approve/disapprove other users!
+[FAILED] This user cannot approve/disapprove other users!
+[FAILED] 1 left. None could be destroyed

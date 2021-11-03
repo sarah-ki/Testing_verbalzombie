@@ -1,0 +1,2 @@
+[COMPLETE] Admin User is Logged in
+[FAILED] This user is not allowed to Destroy Groups or there are currently no groups available for destruction

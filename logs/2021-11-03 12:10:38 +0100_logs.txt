@@ -1,0 +1,2 @@
+[COMPLETE] Normal User is Logged in
+[FAILED] This user cannot approve/disapprove other users!

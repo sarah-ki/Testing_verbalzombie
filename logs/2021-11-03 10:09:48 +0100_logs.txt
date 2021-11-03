@@ -1,0 +1,2 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] At least one Result for the search has bees found

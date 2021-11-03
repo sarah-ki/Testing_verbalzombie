@@ -1,0 +1,2 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] 0 left after successfully destroying one!

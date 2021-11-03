@@ -1,0 +1,5 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] Meal has been created
+[FAILED] The selected Tag already existed
+[FAILED] This Meal does not exist
+[COMPLETE] disapproved a user!

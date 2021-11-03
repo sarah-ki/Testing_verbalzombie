@@ -1,0 +1,2 @@
+[COMPLETE] Admin User is Logged in
+[FAILED] No group has been destroyed!

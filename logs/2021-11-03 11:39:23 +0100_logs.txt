@@ -1,0 +1,8 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] Search test has found Pizza Caprese!
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] Search test has found Pizza Salami!
+[COMPLETE] At least one full match has been found

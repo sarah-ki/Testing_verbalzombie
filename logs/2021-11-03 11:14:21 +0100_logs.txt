@@ -1,0 +1,5 @@
+[COMPLETE] Admin User is Logged in
+[COMPLETE] Search test has found a!
+[COMPLETE] Search test has found b!
+[COMPLETE] Search test has found c!
+[COMPLETE] Search test has found d!
